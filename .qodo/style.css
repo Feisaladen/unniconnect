@@ -1,0 +1,43 @@
+body {
+    font-family:'Segoe UI', Tahoma, Geneva, Verdana, sans-serif;
+    background-color: white;
+}
+ 
+
+#top {
+    background-color: darkgreen;
+    color: red;
+    padding:20px;
+    text-align: center;
+}
+nav{
+    margin-top:10px;
+}
+nav a{
+    color:white;
+    text-decoration:none;
+    margin: 10px;
+}
+
+#welcome{ 
+    padding:20px;
+    text-align: center;
+    background-color: forestgreen;
+    color: white;
+}
+ #services{
+    padding:20px;
+    text-align: center;
+ }
+   
+ div{
+    border: 1px solid black;
+    margin:15px;
+    padding:15px;
+ }
+
+ #footer{
+    background-color: black;
+    text-align:center;
+    color:white;
+ }
